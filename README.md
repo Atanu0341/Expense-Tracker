@@ -13,4 +13,4 @@ Tech Stack:
 React
 HTML5
 CSS3
-Feel free to explore the live demo here!
+Feel free to explore the live demo here[https://expense-tracker-atanu0341.vercel.app/]!
